@@ -1,4 +1,4 @@
-from SemanticNetsAgent import SemanticNetsAgent
+from BFS import SemanticNetsAgent
 
 def test():
     #This will test your SemanticNetsAgent
